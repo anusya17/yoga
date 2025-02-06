@@ -1,0 +1,50 @@
+body{
+    background-image:url(img/background.jpg) ;
+    background-size: cover;
+    font-family:happy monkey,cursive;
+    text-shadow: 0 0 20px indigo;
+}
+
+nav{
+    color: DarkSlateBlue;
+}
+ 
+li,ul {
+    display: inline;
+    
+}
+
+ul{
+    margin-left: 25%;
+    margin-top: 20px;
+   
+}
+
+li{
+  padding-left: 30px;
+}
+li:hover{
+    color: black;
+}
+
+#logo{
+     width: 60px;
+}
+
+.content{
+    text-align: right;
+    padding-top: 10%;
+    margin-right: 7%;
+    color:Pink ;
+}
+
+.btn{
+    padding: 10px 20px;
+    background-color:MistyRose;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 30px;
+    font-family:happy monkey,cursive;
+    text-shadow: 0 0 20px indigo;
+}
+
